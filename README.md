@@ -1,7 +1,7 @@
 onScreen
 ========
 
-A jQuery plugin that does stuff when the matched elements are visible (as inside the viewport)
+onScreen is a jQuery plugin that does stuff when the matched elements are visible (as inside the viewport)
 
 The plugin works something like this:
 ```JavaScript
